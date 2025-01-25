@@ -15,7 +15,9 @@ const headerContainerStyle = {
 const titleStyle = {
     color: "hsl(360, 90%, 56%)",
     fontStyle: "italic",
-    letterSpacing: "0.25rem"
+    letterSpacing: "0.25rem",
+    textAlign: "center",
+    fontSize: "3rem"
 }
 
 function Header(props) {

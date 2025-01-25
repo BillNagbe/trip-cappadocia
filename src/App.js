@@ -9,6 +9,7 @@ function App() {
   return (
     <div>
       <Header name="Cappidocia" />
+      <Nav />
     </div>
   );
 }
